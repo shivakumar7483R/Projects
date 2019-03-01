@@ -1,4 +1,4 @@
-Nosql databse CRUD operations using nodejs express framework
+Nosql databse MongoDB CRUD operations using nodejs express framework
 
 //install the followings
 nodejs- sudo apt-get install nodejs
